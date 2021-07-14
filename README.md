@@ -8,7 +8,7 @@
 - Reach me on dev.moxaj@gmail.com
 
 ### Stats:   
-![Dev's github stats](https://github-readme-stats.vercel.app/api?username=dev9318&show_icons=true&theme=tokyonight)
+![Dev's github stats](https://github-readme-stats.vercel.app/api?username=dev9318&show_icons=true&count_private=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev9318&layout=compact&theme=tokyonight)](https://github.com/dev9318/)
 
 <!--
