@@ -1,6 +1,6 @@
 ### Hello there, I am Dev!
 
-[![Linkedin: Dev_Moxaj_Desai](https://img.shields.io/badge/-DevDesai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-moxaj-desai/)
+[![Linkedin: Dev_Moxaj_Desai](https://img.shields.io/badge/-DevDesai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-moxaj-desai/)](https://www.linkedin.com/in/dev-moxaj-desai/)
 [![GitHub dev9318](https://img.shields.io/github/followers/dev9318?label=follow&style=social)](https://github.com/dev9318)
 
 - I'm currently learning Machine Learning and Web Development.
