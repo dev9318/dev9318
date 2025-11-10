@@ -10,6 +10,8 @@
 ### Stats:   
 ![Dev's github stats](https://github-readme-stats.vercel.app/api?username=dev9318&show_icons=true&count_private=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev9318&layout=compact&theme=tokyonight)](https://github.com/dev9318/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev9318&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/relaxxpls/)
+
 
 <!--
 **dev9318/dev9318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
